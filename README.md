@@ -1,2 +1,2 @@
 # plugin.video.udemy
-Kodi Udemy client
+Kodi Udemy Addon
